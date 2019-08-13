@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "homeTeam": {
+    "Name": "ABC"
+  },
+  "visitingTeam": {
+    "Name": "BCD"
+  }
+}
