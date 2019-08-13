@@ -1,9 +1,11 @@
 {
-  "id": 1,
-  "homeTeam": {
-    "Name": "ABC"
-  },
-  "visitingTeam": {
-    "Name": "BCD"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
