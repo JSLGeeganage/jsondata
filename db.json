@@ -22,10 +22,10 @@
   "profile": {
     "name": "typicode"
   },
-          "Innings":[
-          {
-            "id": 1,
-            "Summary": "123/3"
-          }
-         ]
+  "innings":[
+    {
+      "id": 1,
+      "Summary": "123/3"
+    }
+  ]
 }
