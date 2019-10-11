@@ -3,7 +3,13 @@
     {
       "id": 1,
       "homeTeam": {
-        "Name": "ISM APAC"
+        "Name": "ISM APAC",
+        "Innings":[
+          {
+            "id": 1,
+            "Summary": "123/3"
+          }
+         ]
       },
       "vistingTeam": {
         "Name": "Virtusa"
